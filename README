@@ -1,0 +1,40 @@
+PUMMEL v2.0 - Processing Uncalimed Materials Mannual is Essentially Lame
+
+This is an update of the original PUMMEL app and is written to work in conjunctin with the Polaris Integrated Library System (ILS). PUMMEL is a simple app that feeds keystrokes to Polaris ILS based upon the workflow needed to add a fee for unclaimed holds to a patron's account. This new version of PUMMEL has been rewritten to improve and update the workflow with Polaris 4.1R2 and higher along with adding new features not present in the original version.
+
+PUMMEL 2.0 is written in AutoHotkey which can be had via:
+www.autohotkey.com
+
+PUMMEL 2.0:
+
+* Works upon a standard user created in Polaris specifically for the purpose of processing unclaimed holds. (This enhances security and provides standardization.)
+
+* Allows for processing of unclaimed holds from a text file full of item barcodes.
+
+* Allows for check in of the items after processing and thus sending them on to the next patron or returning to shelf.
+
+* Uses a mostly hands off approach to handling unclaims.
+
+Usage suggestion:
+
+0. Scan your unclaimed holds into a text file and save as barcodes.txt on the C drive. 
+
+1. Launch PUMMEL 2.0.
+
+2. Select branch. (Modified in code as needed.)
+
+3. Select whether to check in after processing.
+
+4. Click sumbit to set prefrences and launch Polaris ILS staff client.
+
+5. Once fully launched, click Browse and select your barcodes.txt file.
+
+6. Let it run. If you selected the check in option, PUMMEL 2.0 will stop and wait for you to click Ok to proceed.
+
+
+Send any questions to 
+
+Daniel Messer
+cyberpunklibrarian@gmail.com
+@bibrarian
+google.com/+DanielMesser
