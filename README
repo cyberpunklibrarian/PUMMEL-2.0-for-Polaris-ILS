@@ -1,4 +1,4 @@
-PUMMEL v2.0 - Processing Uncalimed Materials Mannual is Essentially Lame
+PUMMEL v2.0 - Processing Unclaimed Materials Mannual is Essentially Lame
 
 This is an update of the original PUMMEL app and is written to work in conjunctin with the Polaris Integrated Library System (ILS). PUMMEL is a simple app that feeds keystrokes to Polaris ILS based upon the workflow needed to add a fee for unclaimed holds to a patron's account. This new version of PUMMEL has been rewritten to improve and update the workflow with Polaris 4.1R2 and higher along with adding new features not present in the original version.
 
